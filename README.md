@@ -1,0 +1,2 @@
+# Bayesian Model for Survey Data Heterogeneity
+ Ratings data is often biased in a market research survey. If not corrected properly, It can lead to false inferences for covariance based methods such as regression. In this project, I develop a Bayesian model to tackle the survey data heterogeneity. Upon model implementation, I show how does accounting for survey data heterogeneity changes inferences about people with extreme view and correlaiton among different responses
