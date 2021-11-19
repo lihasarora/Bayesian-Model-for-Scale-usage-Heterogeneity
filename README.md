@@ -10,7 +10,9 @@ Below is the snapshot of the slide that showcases this in detail
 
 
 2. The second usecase was identifying people with extreme views. I demonstrated that people classified as extreme views people are much lower when adjusted for scale usage.
-Below visual explains it in detail:
+I used a scatterplot with 'Median' on the x-axis and 'Range' on the Y-Axis to demonstrate the effect. 
+
+Below visual explains it in detail. The points in the visual have been jittered to better dislpay the quantum of individuals at each level
 
 Pre Adjustment
 ![image](https://user-images.githubusercontent.com/87246714/142695104-4429324a-1158-4de9-9e5c-64252b084047.png)
